@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_167994_logistics_tasks">x_167994_logistics_tasks</category>
+        <maximum_digits>9</maximum_digits>
+        <number>1000</number>
+        <prefix>LOG</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-28 14:35:04</sys_created_on>
+        <sys_id>d7c82fb14fd2b70027301b818110c7df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LOG</sys_name>
+        <sys_package display_value="Logistics" source="x_167994_logistics">aec827714fd2b70027301b818110c761</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Logistics">aec827714fd2b70027301b818110c761</sys_scope>
+        <sys_update_name>sys_number_d7c82fb14fd2b70027301b818110c7df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-28 14:35:04</sys_updated_on>
+    </sys_number>
+</record_update>
